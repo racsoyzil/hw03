@@ -2,7 +2,7 @@
 //Date: 2/22/2015
 //Version:01
 //Homework  03, about casting between diferent data types
-//en esta tarea se declararan tres tipos diferentes de variables y se calculara el promedio 
+//en esta tarea se declararan tres tipos diferentes de variables y se aran conversiones a diferentes tipos de datos 
 #include <iostream>//biblioteca
 int main(){
 	float c=5.4;//declaramos una variable de tipo decimal
